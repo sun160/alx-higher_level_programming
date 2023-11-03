@@ -15,3 +15,4 @@ if __name__ == "__main__":
 
     else:
         print("{} argument:".format(count))
+        print("{}: {}".format(count, arg[1]))
